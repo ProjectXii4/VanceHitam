@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+cbb3a629cc5a64434e8cd1977686226941ba09bf refs/remotes/origin/feature/tutor
+806e3dd544ca6a8ab0aea7e5d9a237e6238186e0 refs/remotes/origin/main
+cbb3a629cc5a64434e8cd1977686226941ba09bf refs/remotes/origin/part1/basic
+9f030bc8fcd7fdd424fcc71174094d7d511abd13 refs/remotes/origin/part2/basic
+7218e4859d0a0e85772202952edc75c7ce915c92 refs/remotes/origin/part3/basic
+8bf855bc33023bb25cc4915194aa327b43361c7a refs/remotes/origin/part4/dockerizing
